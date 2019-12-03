@@ -48,5 +48,49 @@
         </div>
     </nav>
     <!-- NAVBAR#END -->
+    <center>
+        <div style="width: 80%">
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Search products...">
+                <span class="input-group-btn">
+        <button class="btn btn-default" type="button"><span class="
+glyphicon glyphicon-search"></span></button>
+                </span>
+            </div>
+        </div>
+
+        <div class="well" style="width: 80%; margin-top: 25px;">
+          <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Store</th>
+                <th scope="col">Product</th>
+                <th scope="col">Price</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">1</th>
+                <td>KAM Market</td>
+                <td>Bitolsko Mleko</td>
+                <td>39</td>
+              </tr>
+              <tr>
+                <th scope="row">2</th>
+                <td>Stokomak</td>
+                <td>Bitolsko Mleko</td>
+                <td>40</td>
+              </tr>
+              <tr>
+                <th scope="row">3</th>
+                <td>Ramstore</td>
+                <td>Bitolsko Mleko</td>
+                <td>35</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+    </center>
 </body>
 </html>
